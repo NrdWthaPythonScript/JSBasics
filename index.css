@@ -1,9 +1,6 @@
 @font-face {
     font-family: 'Cursed';
-    src: url(".\CSS\fonts\Cursed.eot");
-    src: url("./CSS/fonts/Cursed.eot?") format("embedded-opentype"),
-    url("./CSS/fonts/Cursed.woff") format("woff"),
-    url("./CSS/fonts/Cursed.ttf") format("truetype"),
+    src: url("./CSS/fonts/Cursed.ttf");
 }
 
 
